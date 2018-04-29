@@ -618,6 +618,15 @@ span {
 	#contact_us textarea {
 		height: 120px;
 	}
+	
+	.img_absolute, .about_us_items {
+		width: 100%;
+		text-align: center;
+	}
+
+	.about_us_items {
+		min-height: 0;
+	}
 }
 
 @media (max-width: 550px) {
