@@ -6,6 +6,10 @@ body {
 	line-height: 1;
 }
 
+.container {
+	max-width: 970px;
+}
+
 /* Start Header */
 
 header {
